@@ -1,6 +1,6 @@
 # Possibly Impractical Syntax Display/Highlighting
 
-Instigated by comments from Thomas Phinney (here)[http://qr.ae/KFlE0], typeset code display in a non-monospaced serif font. Currently using (Janson Pro Caption via Typekit)[https://typekit.com/fonts/adobe-jenson-pro-caption], hence effectively unusable.
+Instigated by comments from Thomas Phinney [here](http://qr.ae/KFlE0), typeset code display in a non-monospaced serif font. Currently using [Janson Pro Caption via Typekit](https://typekit.com/fonts/adobe-jenson-pro-caption), hence effectively unusable.
 
 ## Initial Notes
 
@@ -15,8 +15,8 @@ Some PDF tests are in `reftests`.
 
 *For current reference*
 
-(The METAFONT book)[www.ctex.org/documents/shredder/src/mfbook.pdf]
-(Byrne's *The First Six Books of the Elements of Euclid*)[http://www.math.ubc.ca/~cass/Euclid/byrne.html]
-(Schalansky's *Atlas of Remote Islands*)[http://www.penguin.co.uk/nf/Book/BookDisplay/0,,9781846143489,00.html]
+[The METAFONT book](www.ctex.org/documents/shredder/src/mfbook.pdf)
+[Byrne's *The First Six Books of the Elements of Euclid*](http://www.math.ubc.ca/~cass/Euclid/byrne.html)
+[Schalansky's *Atlas of Remote Islands*](http://www.penguin.co.uk/nf/Book/BookDisplay/0,,9781846143489,00.html)
 
 
