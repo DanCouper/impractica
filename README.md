@@ -1,5 +1,7 @@
 # Possibly Impractical Syntax Display/Highlighting
 
+## [Live Here](http://dancouper.github.io/impractica/)
+
 Instigated by comments from Thomas Phinney [here](http://qr.ae/KFlE0), typeset code display in a non-monospaced serif font. Currently using [Janson Pro Caption via Typekit](https://typekit.com/fonts/adobe-jenson-pro-caption), hence effectively unusable.
 
 ## Initial Notes
