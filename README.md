@@ -4,6 +4,9 @@
 
 Instigated by comments from Thomas Phinney [here](http://qr.ae/KFlE0), typeset code display in a non-monospaced serif font. Currently using [Janson Pro Caption via Typekit](https://typekit.com/fonts/adobe-jenson-pro-caption), hence effectively unusable.
 
+Uses [Prism](http://prismjs.com/) for test purposes. *N.B.* first block is editable.
+Used [Colorbrewer](http://colorbrewer2.org/) for visually distinct colours.
+
 ## Initial Notes
 
 - Darker colour seems to be beneficial; among others, Latin Modern (the current 'official' Computer Modern) looks too flimsy on the page. Caption versions definitely seem to perform slightly better.
