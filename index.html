@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Impractica: a relatively-spced serif syntax highlighter</title>
+    <link href="prism-impractica.css" rel="stylesheet">
+    <script src="prism.js"></script>
+    <script type="text/javascript" src="//use.typekit.net/bzl6oyh.js"></script>
+    <script type="text/javascript">
+      try{Typekit.load();}catch(e){}
+
+    </script>
+  </head>
+  <body>
+    <div style="max-width: 768px; margin: 5em auto;">
+      <pre class="line-numbers"><code contenteditable="true" class="language-javascript">// Establish root object: `window` in browser, `exports` on server.
+  var root = this;
+
+  var Grid = {};
+
+  // Export the Grid object for Node.js, with backwards-compatibility for the old require() API.
+  // If we're in the browser, add Grid as a global object via a string identifier, for Closure Compiler "advanced" mode.
+  if (typeof exports !== 'undefined') {
+    if (typeof module !== 'undefined' && module.exports) {
+      exports = module.exports = Grid;
+    }
+    exports.Grid = Grid;
+  } else {
+    root.Grid = Grid;
+  }
+
+  Grid.VERSION = '1.6.0';</code></pre>
+      <pre class="line-numbers"><code class="language-ruby">def full_title(page_title)
+    base_title = "Ruby on Rails Tutorial Sample App"
+    if page_title.empty?
+      base_title
+    else
+      " | "
+    end</code></pre>
+    </div>
+  </body>
+</html>
